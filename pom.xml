@@ -21,6 +21,11 @@
         </repository>
 
         <repository>
+            <id>nightcore-repo</id>
+            <url>https://raw.githubusercontent.com/nulli0n/nightcore-spigot/master/releases</url>
+        </repository>
+
+        <repository>
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
