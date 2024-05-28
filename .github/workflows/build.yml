@@ -1,4 +1,4 @@
-name: DynamicShop
+name: LootConomy
 
 on:
   push:
